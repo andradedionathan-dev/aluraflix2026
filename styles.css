@@ -1,7 +1,6 @@
 body {
     color: white;
-    background: #3ce66f;
-background: linear-gradient(0deg,rgba(60, 230, 111, 1) 0%, rgba(253, 187, 45, 1) 100%);
+    background: black;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
@@ -11,12 +10,11 @@ header {
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
     font-size: 32px;
-    color: rgba(222, 228, 42, 0.751);
+    color: rgb(42, 122, 228);
 }
 
 .chamada {
-    background: #92460d;
-background: linear-gradient(0deg,rgb(14, 24, 117) 0%, rgba(253, 187, 45, 1) 100%);
+    background: rgb(184, 156, 213);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -60,4 +58,3 @@ p {
 .categoria h2 {
     color: rgb(42, 122, 228);
 }
-
